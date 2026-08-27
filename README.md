@@ -26,13 +26,6 @@ Mostly learned by building — nothing here is "mastered," just stuff I've used 
 
 Also poked around with Python/FastAPI and Firebase on a couple of projects.
 
-## 📊 GitHub stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Pratyush-r&show_icons=true&theme=default&hide_border=true" alt="Pratyush's GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratyush-r&layout=compact&hide_border=true" alt="Top languages" height="165"/>
-</p>
-
 ## 📫 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratyush-r-862133335)
